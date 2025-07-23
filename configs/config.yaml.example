@@ -1,0 +1,5 @@
+limiter:
+  strategy: token      # or sliding, leaky,token,log
+  limit: 10  #总限制量
+  interval: 1s # 时间窗口
+  rate: 1 # 流速
