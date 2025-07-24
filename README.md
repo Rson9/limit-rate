@@ -18,4 +18,3 @@
 - leaky_bucket
 - token_bucket
 - sliding_log
-

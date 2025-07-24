@@ -6,11 +6,9 @@ require (
 	github.com/google/wire v0.6.0
 	github.com/labstack/echo v3.3.10+incompatible
 	github.com/spf13/viper v1.20.1
-	go.uber.org/zap v1.27.0
 )
 
 require (
-	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
 	github.com/fsnotify/fsnotify v1.8.0 // indirect
 	github.com/go-viper/mapstructure/v2 v2.2.1 // indirect
 	github.com/labstack/gommon v0.4.2 // indirect
